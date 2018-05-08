@@ -4,7 +4,7 @@
 $ npm install rn-echarts-c --save
 
 复制tpl.html到Android目录下的assets目录下
-
+![image](https://github.com/YinWeiLF/React-Native-Echarts/blob/master/example/usestyle.png)
 
 ## Usage
 
