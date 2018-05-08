@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YinWeiLF/React-Native-Echarts.git"
+    "url": "https://github.com/YinWeiLF/React-Native-Echarts.git"
   },
   "keywords": [
     "react-native",
