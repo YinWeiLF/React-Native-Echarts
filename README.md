@@ -3,6 +3,9 @@
 
 $ npm install rn-echarts-c --save
 
+复制tpl.html到Android目录下的assets目录下
+
+
 ## Usage
 
 The Usage is complete consistent with Echarts
@@ -22,7 +25,7 @@ import {
   Text,
   View
 } from 'react-native';
-import Echarts from 'native-echarts';
+import Echarts from 'rn-echarts-c';
 
 export default class app extends Component {
   render() {
